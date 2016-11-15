@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477525232 source:/home/ferreira.bruno/SortFile/SortFile/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479219737 source:/home/bruno/Dropbox/Unifesp/AED II/SortFile/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
