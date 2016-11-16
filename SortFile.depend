@@ -4,8 +4,14 @@
 	<stdlib.h>
 	<string.h>
 
-1479219737 source:/home/bruno/Dropbox/Unifesp/AED II/SortFile/main.c
+1479260227 source:/home/bruno/Dropbox/Unifesp/AED II/SortFile/main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	"mergesort.c"
+
+1479252827 /home/bruno/Dropbox/Unifesp/AED II/SortFile/mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
 
